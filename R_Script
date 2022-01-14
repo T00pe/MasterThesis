@@ -1,5 +1,4 @@
 #### LIBRARIES ####
-setwd("/Users/lucasoutter/Desktop/UNIL/Master/Data/")
 library(tidyverse)
 library(lme4)
 library(DHARMa)
